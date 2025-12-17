@@ -1,6 +1,6 @@
 [![.NET](https://github.com/syncfusion/ej2-showcase-aspnetcore-loan-calculator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/syncfusion/ej2-showcase-aspnetcore-loan-calculator/actions/workflows/dotnet.yml)
 
-# Essential JS 2Â® for ASP.NET Core - Loan Calculator
+# Essential JS 2® for ASP.NET Core - Loan Calculator
 Demo application that Calculates your loan payment based on your loan amount, interest and term.
 
 ## Requirements to run the demo
@@ -34,15 +34,15 @@ Check all the showcase samples from <a href="https://www.syncfusion.com/showcase
 
 ## License
 
-SyncfusionÂ® ASP.NET MVC Components is available under the SyncfusionÂ® Essential Studio program, and can be licensed either under the SyncfusionÂ® Community License Program or the SyncfusionÂ® commercial license.
+Syncfusion® ASP.NET MVC Components is available under the Syncfusion® Essential Studio program, and can be licensed either under the Syncfusion® Community License Program or the Syncfusion® commercial license.
 
-To be qualified for the SyncfusionÂ® Community License Program you must have a gross revenue of less than one (1) million U.S. dollars (USD 1,000,000.00) per year and have less than five (5) developers in your organization, and agree to be bound by Syncfusion's terms and conditions.
+To be qualified for the Syncfusion® Community License Program you must have a gross revenue of less than one (1) million U.S. dollars (USD 1,000,000.00) per year and have less than five (5) developers in your organization, and agree to be bound by Syncfusion's terms and conditions.
 
 Customers who do not qualify for the community license can contact sales@syncfusion.com for commercial licensing options.
 
-Use of SyncfusionÂ® Blazor Components requires prior acquisition of either a Community License or a Commercial License. Additionally, usage is subject to acceptance of and compliance with Syncfusion's license terms and conditions.
+Use of Syncfusion® Blazor Components requires prior acquisition of either a Community License or a Commercial License. Additionally, usage is subject to acceptance of and compliance with Syncfusion's license terms and conditions.
 
-The SyncfusionÂ® license that contains the terms and conditions can be found at
+The Syncfusion® license that contains the terms and conditions can be found at
 [https://www.syncfusion.com/content/downloads/syncfusion_license.pdf](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
 
 ## Support and feedback
@@ -51,7 +51,7 @@ The SyncfusionÂ® license that contains the terms and conditions can be found at
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
 
-* If the required information is not available, it can be submitted through the SyncfusionÂ® Blazor Components Feedback Portal [feedback portal](https://www.syncfusion.com/feedback/aspnet-mvc).
+* If the required information is not available, it can be submitted through the Syncfusion® Blazor Components Feedback Portal [feedback portal](https://www.syncfusion.com/feedback/aspnet-mvc).
 
 ## See also
 
@@ -59,4 +59,4 @@ The SyncfusionÂ® license that contains the terms and conditions can be found at
 * [ASP.NET Core Components](https://www.syncfusion.com/aspnet-core-ui-controls/)
 * [ASP.NET Core Live Demos](https://ej2.syncfusion.com/aspnetcore/) 
 
-<p>Copyright Â© 2001-2025 SyncfusionÂ®, Inc. Updated on 2025-09-22 at precisely 07:59:36 EST.</p> 
+<p>Copyright © 2001-2025 Syncfusion®, Inc. Updated on 2025-09-22 at precisely 07:59:36 EST.</p> 
